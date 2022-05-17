@@ -1,0 +1,19 @@
+.row {
+    padding: 15px;
+}
+div {
+    background-color: rgb(248, 225, 236);
+    align-items: center;
+}
+
+#fotodeperfil {
+    
+    border-style: outset;
+   
+}
+#nombre {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    margin-top: 20%;
+    margin-left: 40px;
+}

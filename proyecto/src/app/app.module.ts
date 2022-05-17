@@ -7,6 +7,9 @@ import { HeaderComponent } from './components/header/header.component';
 import { LogoAPComponent } from './components/logo-ap/logo-ap.component';
 import { RedsocialComponent } from './components/redsocial/redsocial.component';
 import { BannerComponent } from './components/banner/banner.component';
+import { SobreMiComponent } from './components/sobre-mi/sobre-mi.component';
+import { ExperienciaComponent } from './components/experiencia/experiencia.component';
+import { EducacionComponent } from './components/educacion/educacion.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +17,10 @@ import { BannerComponent } from './components/banner/banner.component';
     HeaderComponent,
     LogoAPComponent,
     RedsocialComponent,
-    BannerComponent
+    BannerComponent,
+    SobreMiComponent,
+    ExperienciaComponent,
+    EducacionComponent
   ],
  
   imports: [
