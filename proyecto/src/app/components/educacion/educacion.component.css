@@ -8,3 +8,12 @@ div {
 h1, h4 {
     display: inline;
 }
+
+
+.four {
+    transform: rotateZ(-90deg);
+}
+
+.circle:hover {
+background: rgba(142, 92, 205, .25);
+}

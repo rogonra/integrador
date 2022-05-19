@@ -8,3 +8,6 @@ div {
 h1, h4 {
     display: inline;
 }
+.h1 {
+    align-items: center;
+}
