@@ -1,0 +1,33 @@
+.row {
+padding: 10px;
+background-color: rgb(248, 225, 236);
+}
+.contenedor{
+    width: auto;
+    text-align: center;
+}
+.parte1, .parte2{
+    display: flex;
+    text-align: end;
+}
+a{
+    color:#b31b1b;
+    
+    text-decoration-color: #b31b1b;
+
+    
+
+}
+h1{
+    font-family: 'courier';
+    font-weight: lighter;
+}
+h2{
+    font-family:'garamond' ;
+    font-size: 25px;
+}
+p{
+    font-family: 'times';
+text-align: center;
+}
+

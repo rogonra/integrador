@@ -1,0 +1,29 @@
+.row {
+    padding: 10px;
+}
+div {
+   
+    background-color:rgb(248, 225, 236 ) ;
+}
+h2, h4 {
+    display: inline;
+    font-family: 'garamond';
+    font-size: 25px;
+    
+}
+
+
+.four {
+    transform: rotateZ(-90deg);
+}
+
+.circle:hover {
+background: rgba(142, 92, 205, .25);
+}
+.forma{
+    font-family: 'courier';
+    font-weight: lighter;
+}
+p{
+    font-family: 'times';
+}

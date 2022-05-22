@@ -1,0 +1,21 @@
+.row{
+    background-color: rgb(248, 225, 236);
+}
+footer{
+    
+    color:#b31b1b;
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+h1{
+    font-size: 14px;
+
+}
+a{
+    color:#b31b1b;
+    
+    text-decoration-color: #b31b1b;
+
+}
